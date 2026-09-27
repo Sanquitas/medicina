@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Le damos permiso al sistema de leer la carpeta interna "reportes" -->
+    <files-path name="reportes_pdf" path="reportes/" />
+</paths>
